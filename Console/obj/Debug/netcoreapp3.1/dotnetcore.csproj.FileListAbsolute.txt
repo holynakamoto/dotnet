@@ -1,0 +1,12 @@
+/Users/nickmoore/code/dotnetcore/bin/Debug/netcoreapp3.1/dotnetcore.deps.json
+/Users/nickmoore/code/dotnetcore/bin/Debug/netcoreapp3.1/dotnetcore.runtimeconfig.json
+/Users/nickmoore/code/dotnetcore/bin/Debug/netcoreapp3.1/dotnetcore.runtimeconfig.dev.json
+/Users/nickmoore/code/dotnetcore/bin/Debug/netcoreapp3.1/dotnetcore.dll
+/Users/nickmoore/code/dotnetcore/bin/Debug/netcoreapp3.1/dotnetcore.pdb
+/Users/nickmoore/code/dotnetcore/obj/Debug/netcoreapp3.1/dotnetcore.csprojAssemblyReference.cache
+/Users/nickmoore/code/dotnetcore/obj/Debug/netcoreapp3.1/dotnetcore.csproj.CoreCompileInputs.cache
+/Users/nickmoore/code/dotnetcore/obj/Debug/netcoreapp3.1/dotnetcore.AssemblyInfoInputs.cache
+/Users/nickmoore/code/dotnetcore/obj/Debug/netcoreapp3.1/dotnetcore.AssemblyInfo.cs
+/Users/nickmoore/code/dotnetcore/obj/Debug/netcoreapp3.1/dotnetcore.dll
+/Users/nickmoore/code/dotnetcore/obj/Debug/netcoreapp3.1/dotnetcore.pdb
+/Users/nickmoore/code/dotnetcore/obj/Debug/netcoreapp3.1/dotnetcore.genruntimeconfig.cache

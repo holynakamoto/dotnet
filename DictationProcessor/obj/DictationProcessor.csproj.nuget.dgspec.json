@@ -1,0 +1,58 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/nickmoore/code/dotnetcore/DictationProcessor/DictationProcessor.csproj": {}
+  },
+  "projects": {
+    "/Users/nickmoore/code/dotnetcore/DictationProcessor/DictationProcessor.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/nickmoore/code/dotnetcore/DictationProcessor/DictationProcessor.csproj",
+        "projectName": "DictationProcessor",
+        "projectPath": "/Users/nickmoore/code/dotnetcore/DictationProcessor/DictationProcessor.csproj",
+        "packagesPath": "/Users/nickmoore/.nuget/packages/",
+        "outputPath": "/Users/nickmoore/code/dotnetcore/DictationProcessor/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/nickmoore/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
